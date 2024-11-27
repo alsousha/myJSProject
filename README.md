@@ -2,14 +2,15 @@
 ## Second level heading
 ### Third level heading
 
-Это первый абзац.
-Это второй абзац.
+This is the first paragraph.
 
-1. Первый элемент
-2. Второй элемент
+This is the second paragraph.
 
-- Первый элемент
-- Второй элемент
+1. First element
+2. Second element
+
+- First element
+- Second element
 
   ```
   const name = "Dan";
